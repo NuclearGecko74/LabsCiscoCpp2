@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	std::cout << "WAZAAAAA\n";
+	std::cout << "WAZAbi\n";
 	return EXIT_SUCCESS;
 }
